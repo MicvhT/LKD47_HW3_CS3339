@@ -10,6 +10,7 @@ https://github.com/MicvhT/LKD47_HW3_CS3339
 -  Micah Thompson `LKD47`
 
 **Compile & Run:**
-- //g++ -std=c++17 -O2 -Wall -Wextra -o LKD47_HW3_CS3339 LKD47_HW3_CS3339.cpp
-- //./LKD47_HW3_CS3339 <num_entries> <associativity> <input_memory_reference_file>
+- g++ -std=c++17 -O2 -Wall -Wextra -o LKD47_HW3_CS3339 LKD47_HW3_CS3339.cpp
+- ./LKD47_HW3_CS3339 <num_entries> <associativity> <input_memory_reference_file>
+
 
