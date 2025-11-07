@@ -1,5 +1,5 @@
-// Build:   g++ -std=c++17 -O2 -Wall -Wextra -o LKD47_HW2_CS3339 LKD47_HW2_CS3339.cpp
-// Usage:   ./LKD47_HW2_CS3339 num_entries associativity input_memory_reference_file
+// Build:   g++ -std=c++17 -O2 -Wall -Wextra -o LKD47_HW3_CS3339 LKD47_HW3_CS3339.cpp
+// Usage:   ./LKD47_HW3_CS3339 num_entries associativity input_memory_reference_file
 
 // ./LKD47_HW2_CS3339 4 2 input_memory_reference_file
 // cat cache_sim_output 
